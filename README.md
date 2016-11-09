@@ -8,6 +8,10 @@ Just an example.
 
 ## Purpose
 
+Purpose of this project goes here.
+
 ## Deployment
+
+Deployment related information.
 
 ## How To Contribute
