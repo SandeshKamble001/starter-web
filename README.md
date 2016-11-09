@@ -2,6 +2,8 @@
 
 ## Introduction
 
+A simple web project to demonstrate git.
+
 ## Purpose
 
 ## Deployment
