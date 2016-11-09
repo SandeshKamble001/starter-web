@@ -4,6 +4,8 @@
 
 A simple web project to demonstrate git.
 
+Just an example.
+
 ## Purpose
 
 ## Deployment
