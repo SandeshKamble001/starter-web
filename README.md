@@ -15,3 +15,7 @@ Purpose of this project goes here.
 Deployment related information.
 
 ## How To Contribute
+
+## Copyright
+
+Copyright information.
