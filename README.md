@@ -16,6 +16,8 @@ Deployment related information.
 
 ## How To Contribute
 
+Fork and issue pull requests for code review.
+
 ## Copyright
 
 Copyright information.
