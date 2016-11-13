@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Just a dummy text here.
+Just a dummy text here. More changes from myfeature branch.
 
 ## Introduction
 
