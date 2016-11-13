@@ -1,5 +1,7 @@
 # Starter Web Project
 
+Just a dummy text here.
+
 ## Introduction
 
 A simple web project to demonstrate git.
