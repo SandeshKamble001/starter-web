@@ -22,4 +22,4 @@ Fork and issue pull requests for code review.
 
 ## Copyright
 
-Copyright information.
+Copyright information. All rights reserved.
